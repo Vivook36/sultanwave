@@ -1,0 +1,10 @@
+{
+ "owner": null,
+ "chat": null,
+ "offset": 0,
+ "paused": false,
+ "open": [],
+ "history": [],
+ "last_candle": {},
+ "next_id": 1
+}
