@@ -1,9 +1,10 @@
 {
  "owner": 5119937486,
  "chat": 5119937486,
- "offset": 991352767,
+ "offset": 991352768,
  "paused": false,
- "open": [
+ "open": [],
+ "history": [
   {
    "symbol": "PAXGUSDT",
    "side": "SELL",
@@ -14,10 +15,12 @@
    "opened": 1793313547214,
    "trend": "DOWN",
    "rsi": 49.25837735510484,
-   "id": 1
+   "id": 1,
+   "result": "TP",
+   "usd": 5.5,
+   "closed": "2026-10-30 02:00"
   }
  ],
- "history": [],
  "last_candle": {
   "PAXGUSDT": 1793312100000
  },
