@@ -3,7 +3,20 @@
  "chat": 5119937486,
  "offset": 991352774,
  "paused": false,
- "open": [],
+ "open": [
+  {
+   "symbol": "PAXGUSDT",
+   "side": "SELL",
+   "entry": 3897.3,
+   "sl": 3902.293708005309,
+   "tp": 3883.567302985401,
+   "sl_d": 4.993708005308816,
+   "opened": 1793414630359,
+   "trend": "DOWN",
+   "rsi": 41.303831431113395,
+   "id": 2
+  }
+ ],
  "history": [
   {
    "symbol": "PAXGUSDT",
@@ -22,7 +35,7 @@
   }
  ],
  "last_candle": {
-  "PAXGUSDT": 1793312100000
+  "PAXGUSDT": 1793412900000
  },
- "next_id": 2
+ "next_id": 3
 }
