@@ -1,9 +1,22 @@
 {
  "owner": 5119937486,
  "chat": 5119937486,
- "offset": 991352775,
+ "offset": 991352776,
  "paused": false,
- "open": [],
+ "open": [
+  {
+   "symbol": "PAXGUSDT",
+   "side": "SELL",
+   "entry": 3898.35,
+   "sl": 3899.3058934321803,
+   "tp": 3895.7212930615037,
+   "sl_d": 0.9558934321803689,
+   "opened": 1793545424392,
+   "trend": "DOWN",
+   "rsi": 44.751612958987984,
+   "id": 4
+  }
+ ],
  "history": [
   {
    "symbol": "PAXGUSDT",
@@ -52,8 +65,8 @@
   }
  ],
  "last_candle": {
-  "PAXGUSDT": 1793412900000,
+  "PAXGUSDT": 1793544300000,
   "BTCUSDT": 1793435400000
  },
- "next_id": 4
+ "next_id": 5
 }
